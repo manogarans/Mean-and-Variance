@@ -1,3 +1,6 @@
+![Screenshot 2024-04-13 084757](https://github.com/manogarans/Mean-and-Variance/assets/139331782/7045dbaa-1cc1-458d-90fb-abb27a4ca0b7)
+
+
 #  Mean and variance of a discrete  distribution
 
 
