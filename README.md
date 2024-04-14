@@ -1,5 +1,3 @@
-![Screenshot 2024-04-13 084757](https://github.com/manogarans/Mean-and-Variance/assets/139331782/7045dbaa-1cc1-458d-90fb-abb27a4ca0b7)
-
 
 #  Mean and variance of a discrete  distribution
 
@@ -51,6 +49,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
+### DEVELOPED BY : MANOGARAN S
+### REG NO : 212223240081
 ```python
 
 import numpy as np
